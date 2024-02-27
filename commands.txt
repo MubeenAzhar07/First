@@ -1,0 +1,3 @@
+git --version  
+ls  //files in the directory
+
