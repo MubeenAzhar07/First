@@ -1,3 +1,8 @@
 git --version  
 ls  //files in the directory
-touch filename    creates a file. 
+ls -a
+touch filename    //creates a file.
+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 //Token
+git init
+git push -u origin main
+git branch -M main //Rename to main
